@@ -6,6 +6,10 @@
   "scripts": {
     "test": "start"
   },
+   "type":"module",
+   "bin": {
+     "brain-games": "bin/brain-games.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SergeyRevyagin/frontend-project-44.git"
