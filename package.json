@@ -1,0 +1,19 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "First front project(games)",
+  "main": "brain-games.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyRevyagin/frontend-project-44.git"
+  },
+  "author": "Sergey Revyagin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyRevyagin/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/SergeyRevyagin/frontend-project-44#readme"
+}
