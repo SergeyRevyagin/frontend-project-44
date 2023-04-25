@@ -81,3 +81,18 @@ $ brain-progression
 
 ### Game "brain-progression"
 [![asciicast](https://asciinema.org/a/m5lWNMIMMmKoKBFCKv41h87OK.svg)](https://asciinema.org/a/m5lWNMIMMmKoKBFCKv41h87OK)
+
+
+## Игра: "Простое ли число?"
+
+Суть игры в следующем: игроку показывается случайное число. Ему нужно ответить **yes**, если число простое, или **no** — если нет.
+
+#### Запуск игры
+
+```
+$ brain-prime
+```  
+
+#### Пример игры
+
+[![asciicast](https://asciinema.org/a/qX1hViOVyWfe5y6vZVCg54nix.svg)](https://asciinema.org/a/qX1hViOVyWfe5y6vZVCg54nix)
