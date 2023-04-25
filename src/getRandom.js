@@ -1,1 +1,1 @@
-export const getRandomIndex = (min,max) => Math.floor(Math.random() * (max - min) + min); // генерируем случайное число в пределах от min до max
+export default (min, max) => Math.floor(Math.random() * (max - min) + min);

@@ -1,5 +1,5 @@
-import {getRandomIndex} from '../getRandom.js';
-import {gameLogic} from '../index.js';
+import getRandomIndex from '../getRandom.js';
+import gameLogic from '../index.js';
 
 const gameDescription = 'Answer "yes" if the number is even, otherwise answer "no".';
 

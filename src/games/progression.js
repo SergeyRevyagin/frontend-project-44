@@ -1,7 +1,7 @@
-import {getRandomIndex} from '../getRandom.js';
-import {gameLogic} from '../index.js';
+import getRandomIndex from '../getRandom.js';
+import gameLogic from '../index.js';
 
-const progressionLength = getRandomIndex(5,10);
+const progressionLength = getRandomIndex(5, 10);
 const gameDescription = 'What number is missing in the progression?';
 
 const getAritmeticProgression = (firstNumber, step) => {
